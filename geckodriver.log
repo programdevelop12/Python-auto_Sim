@@ -1,0 +1,46 @@
+1633571526788	geckodriver	INFO	Listening on 127.0.0.1:51314
+1633571529824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LUKASL~1\\AppData\\Local\\Temp\\rust_mozprofileR1hBFV"
+1633571530547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lukas Lima\\AppData\\Local\\Temp\\rust_mozprofileR1hBFV\\search.json.mozlz4", (void 0)))
+1633571534734	Marionette	INFO	Listening on port 51322
+1633571535150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633571549958	Marionette	INFO	Stopped listening on port 51322
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633572615505	geckodriver	INFO	Listening on 127.0.0.1:51296
+1633572618607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LUKASL~1\\AppData\\Local\\Temp\\rust_mozprofilepwI4gq"
+1633572619609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lukas Lima\\AppData\\Local\\Temp\\rust_mozprofilepwI4gq\\search.json.mozlz4", (void 0)))
+1633572622927	Marionette	INFO	Listening on port 51306
+1633572623451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mk0soundguyshosprmrt.kinstacdn.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.24.0, line 1: TypeError: window.advads_options is undefined
+JavaScript warning: https://resources.usersnap.com/assets/js/entries/widgetAppV2/14dd6f22e46ad990987c.js, line 1: unreachable code after return statement
+JavaScript warning: https://resources.usersnap.com/assets/js/entries/widgetAppV2/14dd6f22e46ad990987c.js, line 21: unreachable code after return statement
+JavaScript warning: https://resources.usersnap.com/assets/js/entries/widgetAppV2/14dd6f22e46ad990987c.js, line 21: unreachable code after return statement
+JavaScript warning: https://resources.usersnap.com/assets/js/entries/widgetAppV2/14dd6f22e46ad990987c.js, line 21: unreachable code after return statement
+1633572833913	Marionette	INFO	Stopped listening on port 51306
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633648185848	geckodriver	INFO	Listening on 127.0.0.1:64010
+1633648188938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LUKASL~1\\AppData\\Local\\Temp\\rust_mozprofileJvvxJd"
+1633648190164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lukas Lima\\AppData\\Local\\Temp\\rust_mozprofileJvvxJd\\search.json.mozlz4", (void 0)))
+1633648194940	Marionette	INFO	Listening on port 64020
+1633648195295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/teads245638586802/moatvideo.js#_moatApi61120118, line 261: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebHtml5InstreamBanner.js, line 130: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Unable to read VR Path Registry from C:\Users\Lukas Lima\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EoFyo3zKq1mkgzvYf9HJ3W9DhbWUwEn_nMzaMw4xO6A.js line 1 > eval line 5532 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tecnoblog.net/278732/deezer-ou-spotify-qual-e-melhor/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 9348, MediaDecoderStateMachine #1] WARNING: 25179f979e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://resources.usersnap.com/assets/js/entries/widgetAppV2/14dd6f22e46ad990987c.js, line 1: unreachable code after return statement
+JavaScript warning: https://resources.usersnap.com/assets/js/entries/widgetAppV2/14dd6f22e46ad990987c.js, line 21: unreachable code after return statement
+JavaScript warning: https://resources.usersnap.com/assets/js/entries/widgetAppV2/14dd6f22e46ad990987c.js, line 21: unreachable code after return statement
+JavaScript warning: https://resources.usersnap.com/assets/js/entries/widgetAppV2/14dd6f22e46ad990987c.js, line 21: unreachable code after return statement
+1633648317846	Marionette	INFO	Stopped listening on port 64020
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
